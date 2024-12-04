@@ -7,4 +7,4 @@ elif weather == "Rainy":
 elif weather == "Snowy":
     activity = "Build a snowman"
 
-print(activity)
+print(activity);
