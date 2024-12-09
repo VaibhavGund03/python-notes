@@ -59,6 +59,7 @@ print()
 print("..........!! Student Details Sucessfully Added..............!!")
 print(name)
 print(grade)
+
 print(age)
 print(b_date)
 print(Email)
