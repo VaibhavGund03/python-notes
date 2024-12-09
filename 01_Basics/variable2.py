@@ -5,3 +5,5 @@ print(type(a))
 a = float(a)
 print(a)
 print(type(a))
+# change the data type
+
